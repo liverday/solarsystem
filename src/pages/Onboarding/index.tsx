@@ -11,7 +11,6 @@ const Onboarding: React.FC = () => (
         <StatusBar backgroundColor="#000" />
         <BackgroundContainer>
             <SolarSystemImage
-                opacity="0.8"
                 width="100%"
                 height="100%"
                 viewBox="900 100 850 900"
