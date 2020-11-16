@@ -18,6 +18,10 @@
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 		04BBFA0D39DE438C902A49E8 /* roboto-bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8F11C7D3C02A40BDB76EBD49 /* roboto-bold.ttf */; };
 		EA035B81648E4CE0BBF75F91 /* roboto-regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FB3E84396F1E4088AAD8AA78 /* roboto-regular.ttf */; };
+		EF5498604279498E95584254 /* background-constellation.svg in Resources */ = {isa = PBXBuildFile; fileRef = 0749F7BA87C742E1BF98C5F4 /* background-constellation.svg */; };
+		F099F1187EC542278C1493CC /* background-solar-system.svg in Resources */ = {isa = PBXBuildFile; fileRef = 4D3AD1E02C8646E5BE3611EF /* background-solar-system.svg */; };
+		4EC6607FC53C4073BC9F7C98 /* roboto-bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 87F55416A03245F3904BAD04 /* roboto-bold.ttf */; };
+		D376D0118DA24DB794A305FB /* roboto-regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F91CFB5CBA354E9B955BBC4D /* roboto-regular.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +59,10 @@
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
 		8F11C7D3C02A40BDB76EBD49 /* roboto-bold.ttf */ = {isa = PBXFileReference; name = "roboto-bold.ttf"; path = "../assets/fonts/roboto-bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		FB3E84396F1E4088AAD8AA78 /* roboto-regular.ttf */ = {isa = PBXFileReference; name = "roboto-regular.ttf"; path = "../assets/fonts/roboto-regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		0749F7BA87C742E1BF98C5F4 /* background-constellation.svg */ = {isa = PBXFileReference; name = "background-constellation.svg"; path = "../src/assets/background-constellation.svg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		4D3AD1E02C8646E5BE3611EF /* background-solar-system.svg */ = {isa = PBXFileReference; name = "background-solar-system.svg"; path = "../src/assets/background-solar-system.svg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		87F55416A03245F3904BAD04 /* roboto-bold.ttf */ = {isa = PBXFileReference; name = "roboto-bold.ttf"; path = "../src/assets/fonts/roboto-bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F91CFB5CBA354E9B955BBC4D /* roboto-regular.ttf */ = {isa = PBXFileReference; name = "roboto-regular.ttf"; path = "../src/assets/fonts/roboto-regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -167,6 +175,10 @@
 			children = (
 				8F11C7D3C02A40BDB76EBD49 /* roboto-bold.ttf */,
 				FB3E84396F1E4088AAD8AA78 /* roboto-regular.ttf */,
+				0749F7BA87C742E1BF98C5F4 /* background-constellation.svg */,
+				4D3AD1E02C8646E5BE3611EF /* background-solar-system.svg */,
+				87F55416A03245F3904BAD04 /* roboto-bold.ttf */,
+				F91CFB5CBA354E9B955BBC4D /* roboto-regular.ttf */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -312,6 +324,10 @@
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				04BBFA0D39DE438C902A49E8 /* roboto-bold.ttf in Resources */,
 				EA035B81648E4CE0BBF75F91 /* roboto-regular.ttf in Resources */,
+				EF5498604279498E95584254 /* background-constellation.svg in Resources */,
+				F099F1187EC542278C1493CC /* background-solar-system.svg in Resources */,
+				4EC6607FC53C4073BC9F7C98 /* roboto-bold.ttf in Resources */,
+				D376D0118DA24DB794A305FB /* roboto-regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

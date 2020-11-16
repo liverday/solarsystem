@@ -1,6 +1,6 @@
 export default {
     brandBackground: '#151515',
-    brandWhtie: '#FFF',
+    brandWhite: '#FFF',
 
     gradientOrange: {
         left: '#EF5F53',
