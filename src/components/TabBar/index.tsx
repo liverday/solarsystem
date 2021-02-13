@@ -1,4 +1,4 @@
-import React, { useState, useCallback } from 'react';
+import React, { useState, useCallback, useEffect } from 'react';
 import { BottomTabBarProps } from '@react-navigation/bottom-tabs';
 
 import { Container } from './styles';
@@ -7,6 +7,11 @@ import Tab from '../Tab';
 const TabBar: React.FC<BottomTabBarProps> = ({ state, navigation }) => {
   const [selectedRoute, setSelectedRoute] = useState('Home');
   const { routes } = state;
+
+  useEffect(() => {
+    const newRoute = state.routeNames[state.index];
+    setSelectedRoute(newRoute);
+  }, [state, selectedRoute]);
 
   const handleTabPress = useCallback(
     (newRoute: string, newIndex: number) => {

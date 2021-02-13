@@ -36,7 +36,7 @@ export const Subtitle = styled.Text`
 `;
 
 export const Brand = styled.Text`
-  font-size: 32px;
+  font-size: ${sizes.text.title}px;
   font-family: 'roboto-bold';
   color: ${colors.brandWhite};
   text-align: center;

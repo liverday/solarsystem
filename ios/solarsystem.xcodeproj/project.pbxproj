@@ -22,6 +22,19 @@
 		F099F1187EC542278C1493CC /* background-solar-system.svg in Resources */ = {isa = PBXBuildFile; fileRef = 4D3AD1E02C8646E5BE3611EF /* background-solar-system.svg */; };
 		4EC6607FC53C4073BC9F7C98 /* roboto-bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 87F55416A03245F3904BAD04 /* roboto-bold.ttf */; };
 		D376D0118DA24DB794A305FB /* roboto-regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F91CFB5CBA354E9B955BBC4D /* roboto-regular.ttf */; };
+		55D0F9633D3C486FBA87B98D /* asteroids.svg in Resources */ = {isa = PBXBuildFile; fileRef = 0A21CF9D9031478EACDAE040 /* asteroids.svg */; };
+		2DEE046044D84F65B998C2F1 /* back.svg in Resources */ = {isa = PBXBuildFile; fileRef = 9E32874D5AF74B36A097368B /* back.svg */; };
+		C4472797FA804FBEAFBA69D8 /* forward.svg in Resources */ = {isa = PBXBuildFile; fileRef = 0D3EDEB22B5244329734C40B /* forward.svg */; };
+		467AECC4D0214DC1BAF696B2 /* galaxies.svg in Resources */ = {isa = PBXBuildFile; fileRef = 13F01174E5FB42068BAE8562 /* galaxies.svg */; };
+		F2C981D8FA8F43A3B37286D6 /* gallery.svg in Resources */ = {isa = PBXBuildFile; fileRef = 2421BBF85A0D40C88F3FC5B2 /* gallery.svg */; };
+		BE85815450CD48BD96A4F041 /* home.svg in Resources */ = {isa = PBXBuildFile; fileRef = 79AB08C9EB73494B9CC901AF /* home.svg */; };
+		10BBB3ABE50042079DADBE7C /* planets.svg in Resources */ = {isa = PBXBuildFile; fileRef = 2BD33302132646CCA34D6106 /* planets.svg */; };
+		F8264A8045994061BE1370F3 /* save.svg in Resources */ = {isa = PBXBuildFile; fileRef = 5938EF048FD64B078B6C5E23 /* save.svg */; };
+		FA56BFB559A749C4A5902CE8 /* saved.svg in Resources */ = {isa = PBXBuildFile; fileRef = 84F63D68F1E948C7A9A5E997 /* saved.svg */; };
+		89B5121B0D3E4515A7D61638 /* search.svg in Resources */ = {isa = PBXBuildFile; fileRef = 63CE3FB4BDBC4FAC9D7AEE02 /* search.svg */; };
+		93D2B8C6695044728E2D2037 /* settings.svg in Resources */ = {isa = PBXBuildFile; fileRef = 494219B331854427B81B6AD8 /* settings.svg */; };
+		BDA48A291A474C1792A27605 /* share.svg in Resources */ = {isa = PBXBuildFile; fileRef = CEC246310C4846ACBA074203 /* share.svg */; };
+		C0D990F49A184329BB731EA5 /* stars.svg in Resources */ = {isa = PBXBuildFile; fileRef = 4F7913FF46B64CDEB33E5187 /* stars.svg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,6 +76,19 @@
 		4D3AD1E02C8646E5BE3611EF /* background-solar-system.svg */ = {isa = PBXFileReference; name = "background-solar-system.svg"; path = "../src/assets/background-solar-system.svg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		87F55416A03245F3904BAD04 /* roboto-bold.ttf */ = {isa = PBXFileReference; name = "roboto-bold.ttf"; path = "../src/assets/fonts/roboto-bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		F91CFB5CBA354E9B955BBC4D /* roboto-regular.ttf */ = {isa = PBXFileReference; name = "roboto-regular.ttf"; path = "../src/assets/fonts/roboto-regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		0A21CF9D9031478EACDAE040 /* asteroids.svg */ = {isa = PBXFileReference; name = "asteroids.svg"; path = "../src/assets/icons/asteroids.svg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9E32874D5AF74B36A097368B /* back.svg */ = {isa = PBXFileReference; name = "back.svg"; path = "../src/assets/icons/back.svg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		0D3EDEB22B5244329734C40B /* forward.svg */ = {isa = PBXFileReference; name = "forward.svg"; path = "../src/assets/icons/forward.svg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		13F01174E5FB42068BAE8562 /* galaxies.svg */ = {isa = PBXFileReference; name = "galaxies.svg"; path = "../src/assets/icons/galaxies.svg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		2421BBF85A0D40C88F3FC5B2 /* gallery.svg */ = {isa = PBXFileReference; name = "gallery.svg"; path = "../src/assets/icons/gallery.svg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		79AB08C9EB73494B9CC901AF /* home.svg */ = {isa = PBXFileReference; name = "home.svg"; path = "../src/assets/icons/home.svg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		2BD33302132646CCA34D6106 /* planets.svg */ = {isa = PBXFileReference; name = "planets.svg"; path = "../src/assets/icons/planets.svg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		5938EF048FD64B078B6C5E23 /* save.svg */ = {isa = PBXFileReference; name = "save.svg"; path = "../src/assets/icons/save.svg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		84F63D68F1E948C7A9A5E997 /* saved.svg */ = {isa = PBXFileReference; name = "saved.svg"; path = "../src/assets/icons/saved.svg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		63CE3FB4BDBC4FAC9D7AEE02 /* search.svg */ = {isa = PBXFileReference; name = "search.svg"; path = "../src/assets/icons/search.svg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		494219B331854427B81B6AD8 /* settings.svg */ = {isa = PBXFileReference; name = "settings.svg"; path = "../src/assets/icons/settings.svg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		CEC246310C4846ACBA074203 /* share.svg */ = {isa = PBXFileReference; name = "share.svg"; path = "../src/assets/icons/share.svg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		4F7913FF46B64CDEB33E5187 /* stars.svg */ = {isa = PBXFileReference; name = "stars.svg"; path = "../src/assets/icons/stars.svg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -179,6 +205,19 @@
 				4D3AD1E02C8646E5BE3611EF /* background-solar-system.svg */,
 				87F55416A03245F3904BAD04 /* roboto-bold.ttf */,
 				F91CFB5CBA354E9B955BBC4D /* roboto-regular.ttf */,
+				0A21CF9D9031478EACDAE040 /* asteroids.svg */,
+				9E32874D5AF74B36A097368B /* back.svg */,
+				0D3EDEB22B5244329734C40B /* forward.svg */,
+				13F01174E5FB42068BAE8562 /* galaxies.svg */,
+				2421BBF85A0D40C88F3FC5B2 /* gallery.svg */,
+				79AB08C9EB73494B9CC901AF /* home.svg */,
+				2BD33302132646CCA34D6106 /* planets.svg */,
+				5938EF048FD64B078B6C5E23 /* save.svg */,
+				84F63D68F1E948C7A9A5E997 /* saved.svg */,
+				63CE3FB4BDBC4FAC9D7AEE02 /* search.svg */,
+				494219B331854427B81B6AD8 /* settings.svg */,
+				CEC246310C4846ACBA074203 /* share.svg */,
+				4F7913FF46B64CDEB33E5187 /* stars.svg */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -328,6 +367,19 @@
 				F099F1187EC542278C1493CC /* background-solar-system.svg in Resources */,
 				4EC6607FC53C4073BC9F7C98 /* roboto-bold.ttf in Resources */,
 				D376D0118DA24DB794A305FB /* roboto-regular.ttf in Resources */,
+				55D0F9633D3C486FBA87B98D /* asteroids.svg in Resources */,
+				2DEE046044D84F65B998C2F1 /* back.svg in Resources */,
+				C4472797FA804FBEAFBA69D8 /* forward.svg in Resources */,
+				467AECC4D0214DC1BAF696B2 /* galaxies.svg in Resources */,
+				F2C981D8FA8F43A3B37286D6 /* gallery.svg in Resources */,
+				BE85815450CD48BD96A4F041 /* home.svg in Resources */,
+				10BBB3ABE50042079DADBE7C /* planets.svg in Resources */,
+				F8264A8045994061BE1370F3 /* save.svg in Resources */,
+				FA56BFB559A749C4A5902CE8 /* saved.svg in Resources */,
+				89B5121B0D3E4515A7D61638 /* search.svg in Resources */,
+				93D2B8C6695044728E2D2037 /* settings.svg in Resources */,
+				BDA48A291A474C1792A27605 /* share.svg in Resources */,
+				C0D990F49A184329BB731EA5 /* stars.svg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
