@@ -16,7 +16,7 @@ export const SectionContainer = styled.View`
 `;
 
 export const SectionText = styled.Text`
-  font-size: ${sizes.text.sectionTitle}px;
+  font-size: ${sizes.text.content}px;
   font-family: 'roboto-regular';
   color: ${colors.brandWhite};
 `;
