@@ -34,7 +34,7 @@ routes.get('/find/:name', async (request: Request, response: Response): Promise<
     const nameFormatted = name.toLocaleLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, "");
 
     const planets = data.planets.filter( planet => {
-      const match = planet.searchTags.some( tag => tag.includes(nameFormatted) );
+      const match = planet.searchTags.some(tag => tag.includes(nameFormatted) );
       if (match) return planet;
     });
 

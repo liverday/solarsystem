@@ -4,7 +4,7 @@
       "id": "0",
       "name": "Sol",
       "resume": "O Sol é a estrela mais próxima da Terra, dista aproximadamente 150 milhões de quilômetros de nós, e é responsável por manter todo o Sistema Solar em sua interação gravitacional: oito planetas e os demais corpos celestes que o compõem, como planetas anões, asteroides e cometas.",
-      "introduction": "",
+      "introduction": "A composição do Sol é de 74% de hidrogênio e 24% de hélio, sendo o percentual restante formado principalmente por oxigênio, carbono e ferro. Toda a energia produzida pelo Sol é proveniente do processo de fusão nuclear decorrente das grandes temperaturas de seu núcleo (cerca de 15 milhões de kelvin) e de sua enorme pressão.\n\nConsequentemente, nossa estrela é capaz de converter átomos de hidrogênio em hélio, e os números são incríveis: a cada segundo, o Sol funde cerca de 600 milhões de toneladas de hidrogênio em hélio, convertendo parte dessa massa em energia, na forma de ondas eletromagnéticas, como os raios gama.",
       "image": "http://10.0.2.2:3333/files/planets/sun.svg",
       "searchTags": [
         "planeta",
@@ -35,8 +35,8 @@
     {
       "id": "1",
       "name": "Mercúrio",
-      "resume": "Mercúrio é o planeta mais próximo do Sol. Mercúrio é um planeta que não possui uma inclinação semelhante à da Terra. Sem essa inclinação e com uma translação curta, não há existência de estações do ano. Essa baixa inclinação explica também o gelo encontrado nas crateras desse planeta.",
-      "introduction": "",
+      "resume": "Mercúrio é considerado o menor planeta do Sistema Solar desde o rebaixamento de Plutão a planeta anão. É o planeta mais próximo do Sol e consequentemente, o mais quente.",
+      "introduction": "A proximidade de Mercúrio com o Sol (é o planeta mais próximo dessa estrela) torna o desenvolvimento da vida nesse planeta bastante difícil, pois há altas e baixas temperaturas, instabilidades climáticas, atmosfera fraca e uma superfície escura, talvez devido à presença de grafite ou mesmo pelas altas temperaturas, que “carbonizam” as paisagens.\n\nMercúrio é um planeta que não possui uma inclinação semelhante à da Terra. Sem essa inclinação e com uma translação curta, não há existência de estações do ano. Essa baixa inclinação explica também o gelo encontrado nas crateras desse planeta. Segundo os estudos da sonda Messenger, o fato de não estar bem inclinado em relação ao Sol faz com que a iluminação não atinja o fundo das crateras, possibilitando a formação de gelo durante a noite.\n\nSua composição atmosférica é instável e fraca quando comparada com a nossa. A proximidade com o Sol faz com que Mercúrio sofra com os ventos solares, dificultando a presença de atmosfera, satélites naturais e anéis. Com isso, o planeta é suscetível aos meteoros, que constantemente se chocam com o planeta, abrindo enormes crateras.",
       "image": "http://10.0.2.2:3333/files/planets/mercury.svg",
       "searchTags": [
         "planeta",
@@ -66,8 +66,8 @@
     {
       "id": "2",
       "name": "Vênus",
-      "resume": "Vênus é o planeta de maior proximidade com a Terra, está distante entre 40,2 milhões de quilômetros e 260 milhões de quilômetros, essa variação é oriunda da órbita que os respectivos realizam em torno do sol.",
-      "introduction": "",
+      "resume": "Vênus é um planeta que compõe o sistema solar. Está situado no sistema solar no segundo lugar entre os planetas a partir do sol. O nome do planeta em questão é proveniente da deusa romana Vênus. O planeta Vênus possui grande semelhança com a Terra, ambos são do tipo terrestre, além disso, são semelhantes quanto ao tamanho, massa e composição.",
+      "introduction": "Vênus é o planeta de maior proximidade com a Terra, está distante entre 40,2 milhões de quilômetros e 260 milhões de quilômetros, essa variação é oriunda da órbita que os respectivos realizam em torno do sol.\n\nO estudo acerca de Vênus teve início quando a primeira sonda espacial, chamada de mariner 2, em 1962, atingiu a superfície do planeta, logo mais foram enviadas outras sondas, o fluxo aumentou, até por que configurava o período da corrida espacial, então foram enviadas as sondas soviéticas de nome Vênus e as americanas Mariner e Pioneer.\n\nNo decorrer de muito tempo imaginava-se que Terra e Vênus eram planetas gêmeos, embora as particularidades comuns se restrinjam somente aos aspectos referentes ao tamanho e massa, pois em condições favoráveis de formação e proliferação de vidas são totalmente distintos.",
       "image": "http://10.0.2.2:3333/files/planets/venus.svg",
       "searchTags": [
         "planeta",
@@ -97,7 +97,7 @@
       "id": "3",
       "name": "Terra",
       "resume": "O Planeta Terra é um dos planetas que fazem parte do Sistema Solar e é o terceiro planeta mais próximo do Sol. A sua formação ocorreu há bilhões de anos, assim como a existência de vida aqui . Algumas teorias explicam sua origem, como a teoria da nebulosa solar.",
-      "introduction": "",
+      "introduction": "A Terra é considerada um planeta telúrico e possui sua estrutura interna dividida em: crosta terrestre, manto e núcleo. Além da estrutura externa, há também a interna que corresponde à litosfera, hidrosfera, biosfera e atmosfera, que são o que oferece as condições favoráveis para a existência de vida aqui.\n\nO Planeta Terra, também conhecido como mundo, planeta azul ou planeta água, tem cerca de 70% da sua superfície coberta por água. A existência dessa substância em seu estado líquido, juntamente à presença do oxigênio e a capacidade de reciclar gás carbônico fazem da Terra um planeta com características únicas.\n\nApesar das grandes descobertas astronômicas, não há ainda como afirmar que exista um planeta com características tão peculiares capaz de propiciar a existência dos seres vivos. E a Terra não é “viva” apenas sob a ótica biológica, mas também sob a ótica atmosférica, geológica e física, uma vez que tudo isso está em constante transformação.",
       "image": "http://10.0.2.2:3333/files/planets/earth.svg",
       "searchTags": [
         "planeta",
@@ -126,8 +126,8 @@
     {
       "id": "4",
       "name": "Marte",
-      "resume": "Marte é o quarto planeta a partir do Sol, o segundo menor do Sistema Solar. Batizado em homenagem ao deus romano da guerra, muitas vezes é descrito como o 'Planeta Vermelho', porque o óxido de ferro predominante em sua superfície lhe dá uma aparência avermelhada.",
-      "introduction": "",
+      "resume": "Marte é um planeta do sistema solar que se encontra situado em quarto lugar a partir do Sol. Durante a noite é identificado pela sua aparência, uma estrela vermelha, característica essa que lhe rendeu o nome de Marte, nomeação feita pelos antigos romanos. Além dos romanos, os chineses, coreanos e japoneses o denominaram de “Estrela de Fogo”.",
+      "introduction": "Esse planeta em questão possui particularidades semelhantes às do planeta Terra como, por exemplo, a duração do dia e as estações do ano bastante similares. Além disso, em 2015 a NASA revelou a existência de água salgada escorrendo nas encostas das montanhas do planeta vermelho.\n\nNa superfície de Marte são encontradas calotas polares constituídas de água e dióxido de carbono gelados. No planeta está presente a maior montanha de todo sistema solar, chamada de Olympus Mons, composta por uma grande cratera, além de planície e antigos leitos de rios.\n\nDe acordo com a mitologia helênica, Marte representa Ares (deus da fúria e da guerra). A ciência que tem como objetivo estudar Marte é chamada de areologia.\n\nEm razão da fina espessura da atmosfera marciana, as temperaturas são baixas, não ultrapassando 20 graus, no entanto, os dados são imprecisos, pois não levam em conta as particularidades regionais do planeta.\n\nNo verão a temperatura atinge – 36ºC e no inverno as temperaturas atingem – 130ºC.",
       "image": "http://10.0.2.2:3333/files/planets/mars.svg",
       "searchTags": [
         "planeta",
@@ -158,7 +158,7 @@
       "id": "5",
       "name": "Júpiter",
       "resume": "Júpiter é o maior planeta do Sistema Solar, estando situado entre Marte e Saturno. Seu tamanho rende-lhe vários satélites naturais orbitando ao seu redor, cerca de 70. Durante a noite, esse planeta pode ser visto a olho nu, sendo a segunda estrela mais brilhante, atrás apenas de Vênus, o segundo planeta na ordem usando-se o Sol como referência.",
-      "introduction": "",
+      "introduction": "Estima-se que Júpiter tenha entre 60 e 70 satélites conhecidos. Quatro foram apelidados de Luas Galileanas, pois foram descobertas, em 1610, por Galileu Galilei. Ganímedes, Calisto, Io e Europa são seus nomes. A primeira é um pouco maior que Mercúrio, e as outras três são semelhantes à nossa Lua.\n\nTudo que existe em Júpiter é considerado \"colossal\", assim como o próprio planeta é. Dentre as características visíveis, podemos destacar as nuvens coloridas que pairam na superfície. Tal coloração é resultado da composição atmosférica (hidrogênio e hélio) e das intensas tempestades que ocorrem, com ventos de até 600 km/hora. A nuvem mais famosa foi apelidada de Mancha Vermelha, tão grande que é capaz de encobrir toda a Terra.\n\nEssas tempestades são comuns em Júpiter devido a ele ser um planeta gasoso e ter a atmosfera com grande quantidade de hidrogênio. Estudos apontam que algumas tempestades duram horas, outras podem durar séculos, sendo fatais para os seres humanos.\n\nO campo magnético de Júpiter é muito mais forte que o da Terra. Esse fato pode ajudar-nos a entender a grande quantidade de satélites naturais em sua órbita",
       "image": "http://10.0.2.2:3333/files/planets/jupiter.svg",
       "searchTags": [
         "planeta",
@@ -192,7 +192,7 @@
       "id": "6",
       "name": "Saturno",
       "resume": "Saturno é o sexto planeta a partir do Sol e é o segundo maior planeta do Sistema Solar, ficando atrás apenas de Júpiter. Suas dimensões são 9 vezes maiores que as da Terra. Devido à sua composição, é conhecido também como gigante gasoso e destaca-se pela beleza do sistema de anéis que o circunda, os quais são formados a partir de fragmentos de rocha e gelo.",
-      "introduction": "",
+      "introduction": "Saturno tornou-se o planeta com o maior número de luas do Sistema Solar, em 2018, contando com 82 no total. Por meio das missões de exploração, como a Cassini, descobriu-se que Titã, o maior desses satélites naturais, tem características comparáveis às da Terra primitiva.\n\nSaturno é o segundo maior planeta do Sistema Solar, com 9 vezes o tamanho da Terra. Está relativamente distante do Sol, sendo o sexto planeta a partir dessa estrela, demorando 29,4 anos terrestres, ou 10.756 dias, para completar uma volta em torno dela. O seu movimento de rotação é curto, tendo duração de apenas 10,7 horas.\n\nDiferentemente dos planetas rochosos, como a Terra, a superfície de Saturno não é sólida. O planeta é conhecido como gigante gasoso, o que se deve ao estado físico dos elementos que compõem sua estrutura. Saturno é formado predominantemente por hidrogênio, hélio em menores proporções e uma quantidade muito pequena de metano. O seu núcleo, em contrapartida, é denso e solidificado, envolto por hidrogênio líquido metálico e hidrogênio líquido. Mesmo com essa composição, a densidade de Saturno é menor do que a da água.\n\nA presença de anéis circundantes no seu plano equatorial constitui a principal característica de Saturno. As primeiras observações desse sistema foram feitas no século XVII por Galileu Galilei e corroboradas, mais tarde, naquele mesmo século, pelo astrônomo holandês Christiaan Huygens.\n\nOs anéis de Saturno são formados por partículas e fragmentos maiores de rocha e gelo, originárias de asteroides, cometas e luas que foram destruídos pela força gravitacional do planeta. Distribuem-se horizontalmente por até 282.000 km, com espessura variável que pode ir de alguns metros a 1 km, de acordo com a literatura acadêmica.",
       "image": "http://10.0.2.2:3333/files/planets/saturn.svg",
       "searchTags": [
         "planeta",
@@ -231,7 +231,7 @@
       "id": "7",
       "name": "Urano",
       "resume": "Urano é o terceiro maior planeta do Sistema Solar e, assim como Saturno, possui anéis em sua estrutura. Com diâmetro de 51.118 quilômetros, Urano é o terceiro maior planeta do sistema solar (menor apenas que Júpiter e Saturno) e o sétimo a partir do Sol.",
-      "introduction": "",
+      "introduction": " distância média desse corpo celeste para a estrela principal do sistema solar (Sol) é de 2,873 bilhões de quilômetros, interferindo diretamente nas temperaturas registradas no planeta: a temperatura média em Urano é de -195 °C.\n\nA atmosfera desse planeta é composta por hidrogênio, hélio e metano; o núcleo é formado por rochas de gelo; também possui uma camada pastosa de metano solidificado. Urano, assim como Saturno, possui anéis em sua estrutura, mas eles não são luminosos. Pesquisas apontam que esses anéis são formados por partículas de poeira e blocos de gelo\n\nA absorção da luz vermelha pelo metano faz com que Urano tenha uma coloração azul-esverdeada, característica única entre os planetas do sistema solar. Outra peculiaridade é a forma como ocorre o movimento de rotação – gira deitado, apresentando sempre um dos polos voltados para o Sol.",
       "image": "http://10.0.2.2:3333/files/planets/uranus.svg",
       "searchTags": [
         "planeta",
@@ -265,7 +265,7 @@
       "id": "8",
       "name": "Netuno",
       "resume": "Último planeta do sistema solar, tendo o Sol como referência, Netuno possui diâmetro de 49.528 quilômetros, sendo o quarto maior em tamanho. Esse corpo celeste, assim como Júpiter, Saturno e Urano, é considerado um planeta gasoso, cuja atmosfera é composta principalmente por hidrogênio, hélio e metano.",
-      "introduction": "",
+      "introduction": "Netuno apresenta coloração azulada em virtude da concentração de gás metano. Outra característica peculiar é a Grande Mancha Escura, que tem tamanho equivalente ao da Terra. Até o momento, foram identificados 13 satélites naturais (Luas) desse planeta, sendo que os dois mais importantes são Tristão e Nereida\n\nA distância média de Netuno em relação ao Sol é de aproximadamente 4,5 bilhões de quilômetros, fato que influencia diretamente na temperatura local: 200 graus Celsius negativos. Além das baixas temperaturas, os ventos podem atingir até 2 mil quilômetros por hora.\n\nPlaneta mais distante do Sol, Netuno possui uma extensa órbita. Com isso, o movimento de translação (deslocamento em torno do Sol) é o mais demorado entre os planetas do sistema solar, finalizado em um tempo equivalente a 164 anos terrestres. Portanto, um ano em Netuno tem duração de 164 anos na Terra. Já o movimento de rotação (deslocamento em torno de seu próprio eixo) é realizado em 16 horas terrestres.",
       "image": "http://10.0.2.2:3333/files/planets/neptune.svg",
       "searchTags": [
         "planeta",
@@ -301,7 +301,7 @@
       "id": "9",
       "name": "Plutão",
       "resume": "Descoberto em 1930, pelo astrônomo estadunidense Clyde Tombaugh, Plutão está localizado na região denominada Cinturão de Kuiper, que abriga milhões de corpos celestes gelados, com distâncias do Sol que variam entre 4,5 bilhões a 7,5 bilhões de quilômetros. Essa distância para o Sol faz com que Plutão registre temperaturas baixíssimas, girando em torno de 200° Celsius negativos.",
-      "introduction": "",
+      "introduction": "Durante décadas, Plutão foi considerado um planeta do sistema solar. Contudo, em agosto de 2006, a União Astronômica Internacional (IAU) classificou esse corpo celeste como um dos três planetas anões: Ceres, Eris e Plutão. Essa decisão foi motivada pelas características de Plutão, em especial pela sua forma e tamanho.\n\nA distância da Terra para Plutão é muito grande, fato que dificulta as observações e o envio de sondas espaciais que possam fornecer imagens mais precisas. Entre as poucas características obtidas desse planeta anão estão a massa (equivalente a 0,24% da massa da Terra), a composição interna (gelo e rochas), a atmosfera (nitrogênio, metano e monóxido de carbono) e o diâmetro: 2.306 quilômetros.\n\nOutra informação importantíssima se refere aos movimentos de rotação (deslocamento em torno de seu próprio eixo) e de translação (deslocamento em torno do Sol). O primeiro, responsável pela alternância dos dias, é realizado em um tempo equivalente a 6,5 dias na Terra. Já a translação, responsável pela alternância dos anos, é finalizada em um tempo equivalente a 248 anos terrestres, pois a órbita de Plutão é muito extensa.",
       "image": "http://10.0.2.2:3333/files/planets/pluto.svg",
       "searchTags": [
         "planeta",
