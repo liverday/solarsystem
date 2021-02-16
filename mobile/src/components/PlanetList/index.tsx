@@ -27,6 +27,7 @@ import {
 
 import { Planet } from '../../shared/interfaces';
 import colors from '../../shared/colors';
+import { useFavorites } from '../../hooks/favorites';
 
 interface PlanetListProps {
   planets: Planet[];
@@ -39,6 +40,7 @@ const PlanetList: React.FC<PlanetListProps> = ({
   view,
   onPlanetPressed,
 }) => {
+  const { togglePlanet, isFavorite } = useFavorites();
   const forwardIcon = useCallback(
     (planet: Planet) => (
       <TouchableOpacity onPress={() => onPlanetPressed(planet)}>
@@ -81,6 +83,7 @@ const PlanetList: React.FC<PlanetListProps> = ({
 
   const renderVerticalViewItem = (planet: Planet) => {
     const isSaturn = planet.name === 'Saturno';
+    const isPlanetFavorited = isFavorite(planet.id);
     return (
       <DetailedPlanetCardContainer>
         <SvgUri
@@ -98,7 +101,25 @@ const PlanetList: React.FC<PlanetListProps> = ({
             <DetailedPlanetCardContentTitle>
               {planet.name}
             </DetailedPlanetCardContentTitle>
-            <SaveIcon width={24} height={24} opacity={0.65} />
+            <TouchableOpacity onPress={() => togglePlanet(planet)}>
+              {!isPlanetFavorited && (
+                <SaveIcon width={24} height={24} opacity={0.65} />
+              )}
+              {isPlanetFavorited && (
+                <MaskedView maskElement={<SavedIcon width={24} height={24} />}>
+                  <LinearGradient
+                    colors={[
+                      colors.gradientOrange.left,
+                      colors.gradientOrange.right,
+                    ]}
+                    start={{ x: 0, y: 0 }}
+                    end={{ x: 1, y: 0 }}
+                  >
+                    <SavedIcon width={24} height={24} opacity={0} />
+                  </LinearGradient>
+                </MaskedView>
+              )}
+            </TouchableOpacity>
           </DetailedPlanetCardContentHeader>
 
           <DetailedPlanetCardContentBody>

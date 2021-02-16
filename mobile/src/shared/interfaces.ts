@@ -12,7 +12,7 @@ export interface Planet {
     radius: string;
     Diameter: string;
     sunDistance: string;
-    satellities: {
+    satellites: {
       number: number;
       names: string[];
     };

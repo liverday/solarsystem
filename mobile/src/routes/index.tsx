@@ -9,8 +9,8 @@ import TabBar from '../components/TabBar';
 
 import Onboarding from '../pages/Onboarding';
 import Gallery from '../pages/Gallery';
-import Favorites from '../pages/Favorites';
 
+import FavoritesRoutes from './favorites.routes';
 import SearchRoutes from './search.routes';
 import HomeRoutes from './home.routes';
 
@@ -31,7 +31,7 @@ const MainNavigator: React.FC = () => (
     />
     <Tab.Screen
       name="Favorites"
-      component={Favorites}
+      component={FavoritesRoutes}
       initialParams={{ icon: 'save', title: 'Salvos' }}
     />
     <Tab.Screen

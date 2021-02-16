@@ -33,6 +33,8 @@ const Search: React.FC<StackScreenProps<SearchStackProps, 'Search'>> = ({
   const [loading, setLoading] = useState(false);
 
   const searchPlanets = useCallback(async (searchText: string) => {
+    if (!searchText) return;
+
     setLoading(true);
     const { data } = await api.get(`/find/${searchText}`);
     setSearchResults(data);
